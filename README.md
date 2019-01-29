@@ -1,3 +1,3 @@
 # Books-pdf
-Various books on Scala,Spark and general programming
+Various books on Scala $ Spark.
 
